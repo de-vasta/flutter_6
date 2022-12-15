@@ -1,16 +1,17 @@
-# flutter_6
+<h1 align="center"> Лабораторна робота №6 </h1>
+<h3 align="center"> Варіянт-2 </h3>
 
-A new Flutter project.
+<details>
+<summary>P03P06ити rpaфічний iHTepcфeйc згідно pHcyHKY Ta варіанту BKa3aHиX p03MipiB y таблиці, використовуючи віджети розглянутих класів.</summary>
+<div align="center">
+    <img src="https://i.imgur.com/f87Lg4q.png">
+<br>
+<br>
 
-## Getting Started
+| № | Розміри та розташування віджетів                                                      |
+|---|---------------------------------------------------------------------------------------|
+| 2 | e=min; b=200; d=100; g=350; h=550; f=i=100; k=min; m=550; n=p=r=s=5; розмір шрифту 14 |
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>
+</details>
